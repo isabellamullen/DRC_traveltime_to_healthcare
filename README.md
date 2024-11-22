@@ -1,6 +1,6 @@
 # Traveltime to Healthcare in the Democratic Republic of the Congo
 
-# Healthcare Accessibility for Infants in the DRC
+## Healthcare Accessibility for Infants in the DRC
 
 This project analyzes healthcare accessibility for infants aged 0-1 in the Democratic Republic of the Congo, focusing on those living more than 30 and 45 minutes driving distance from the nearest health facility. The analysis combines spatial datasets on population, travel time, and healthcare facility locations to produce visualizations and tables highlighting regions with limited healthcare access.
 
